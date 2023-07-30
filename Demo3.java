@@ -4,6 +4,6 @@ public class Demo3 {
             int b = 456;
             int c = 7890;
        
-             System.out.printf("\u001B[33m(%03d)\u001B[0m %03d-%04d", a,b,c);
+            System.out.printf("\u001B[33m(%03d)\u001B[0m %03d-%04d", a,b,c);
         }
     }
